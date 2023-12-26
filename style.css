@@ -1,0 +1,59 @@
+body,
+html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.sinFondo {
+    background-color: transparent;
+}
+
+.parallax {
+    background-image: url("fondo1.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    background-image: url("fondo1.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondoVerde {
+    background-color: lightseagreen;
+    padding-top: 50px;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+
+.parallax3 {
+    background-image: url("fondo2.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
